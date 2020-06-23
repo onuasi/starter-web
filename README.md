@@ -18,6 +18,7 @@ This is a simple web project, deployment can be on any web server or
 even local file system.
 
 ## How To Contribute
+Please review it and change what you see its wrong
 
 ### CopyRight
 2020 Git.Trainig
