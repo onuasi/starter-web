@@ -5,6 +5,7 @@ We are doing an emergency fix after a stage.
 
 Applying some changes to check diff changes, from a file modified in github.
 Changing the branch from github branch to see if fetch brings this changes.
+Second change to see fetch behaviour.
 
 ## Introduccion
 
