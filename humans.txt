@@ -16,6 +16,7 @@ Simple graph test
 	Chaging something for the Cherry pick test on master.
     HTML5, CSS3
     jQuery, Modernizr
+	Other technologies
 
 #Isabella Ojeda
 #Nuñez
