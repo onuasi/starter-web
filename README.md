@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work.
 We are doing an emergency fix after a stage.
 
+Applying some changes to check diff changes, from a file modified in github.
+
 ## Introduccion
 
 This is example is to show different parts of the Git repository and
