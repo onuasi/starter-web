@@ -23,4 +23,4 @@ even local file system.
 Please review it and change what you see its wrong
 
 ### CopyRight
-2020 Git.Trainig
+2020 Git.Trainig. All rights reserve.
