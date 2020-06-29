@@ -4,7 +4,7 @@ Simple graph test
 
 # TEAM
 	Another graph test
-    Gus Morales leoe@hotmail.com
+    Changes for stage example.
 
 # THANKS
 
